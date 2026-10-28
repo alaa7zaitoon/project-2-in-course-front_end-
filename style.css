@@ -1,0 +1,36 @@
+
+body {
+    background-color: #0B1026;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: #FFD166;
+    
+}
+
+h2 {
+    color: #FFD166;
+}
+
+p {
+    color: #E0E6FF;
+    font-size: 25px;
+    width:800px;
+    margin:auto;
+    
+    
+}
+
+img {
+    width: 700px;
+}
+
+video {
+    width: 700px;
+}
+
+audio{
+    width:500px;
+}
